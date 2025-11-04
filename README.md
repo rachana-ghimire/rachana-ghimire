@@ -45,21 +45,14 @@ Welcome to my GitHub profile! I'm a Bachelor of Business Studies (BBS) student a
 ## 📫 Contact & Where to Find Me
 
 * Portfolio: [https://rachanaghimire.com.np](https://rachanaghimire.com.np)
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: [https://github.com/your-username](https://github.com/rachana-ghimire)
 
-*(Replace the placeholders above with the correct links and email.)*
 
----
+
 
 ## ⚡ Fun Facts
 
 * I enjoy turning academic topics into bite-sized projects and notes that others can use to learn.
 * I prefer learning by building — expect small, well-documented repositories.
 
----
-
-### Want this README customized?
-
-Tell me which repos to spotlight, which badges to show (GitHub stats, languages, etc.), and whether you want a short CV/Resume section. I can also create a version with emoji-only bullet points, or a minimal professional layout — up to you!
 
