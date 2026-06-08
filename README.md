@@ -23,13 +23,12 @@ Welcome to my GitHub profile! I'm a Bachelor of Business Studies (BBS) student a
 
 ## 💼 Projects
 
-> A few highlights - click the project titles (if you're viewing this on GitHub) to open the repositories.
+
 
 * **Financial Analysis Projects** - bank performance analysis, financial ratio dashboards, and accounting case studies.
 * **AI / Prompt Experiments** - small experiments demonstrating prompt design, chatbot interactions, and workflow automation.
 * **Learning Repos** - notes, exercises, and worked examples from courses on accounting, macroeconomics (IS-LM), and data analysis.
 
-*(If you'd like, I can add direct links to repositories here - tell me which repos to highlight.)*
 
 ---
 
@@ -45,7 +44,7 @@ Welcome to my GitHub profile! I'm a Bachelor of Business Studies (BBS) student a
 ## 📫 Contact & Where to Find Me
 
 * Portfolio: [https://rachanaghimire.com.np](https://rachanaghimire.com.np)
-* GitHub: [https://github.com/your-username](https://github.com/rachana-ghimire)
+* GitHub: [https://github.com/rachana-ghimire](https://github.com/rachana-ghimire)
 
 
 
