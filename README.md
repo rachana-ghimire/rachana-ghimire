@@ -1,4 +1,4 @@
-# Hi — I’m Rachana Ghimire 👋
+# Hi - I’m Rachana Ghimire 👋
 
 Welcome to my GitHub profile! I'm a Bachelor of Business Studies (BBS) student and an avid learner who blends business knowledge with data analysis, accounting, and emerging technologies like AI. I build projects that solve real problems and help me learn by doing.
 
@@ -23,13 +23,13 @@ Welcome to my GitHub profile! I'm a Bachelor of Business Studies (BBS) student a
 
 ## 💼 Projects
 
-> A few highlights — click the project titles (if you're viewing this on GitHub) to open the repositories.
+> A few highlights - click the project titles (if you're viewing this on GitHub) to open the repositories.
 
-* **Financial Analysis Projects** — bank performance analysis, financial ratio dashboards, and accounting case studies.
-* **AI / Prompt Experiments** — small experiments demonstrating prompt design, chatbot interactions, and workflow automation.
-* **Learning Repos** — notes, exercises, and worked examples from courses on accounting, macroeconomics (IS-LM), and data analysis.
+* **Financial Analysis Projects** - bank performance analysis, financial ratio dashboards, and accounting case studies.
+* **AI / Prompt Experiments** - small experiments demonstrating prompt design, chatbot interactions, and workflow automation.
+* **Learning Repos** - notes, exercises, and worked examples from courses on accounting, macroeconomics (IS-LM), and data analysis.
 
-*(If you'd like, I can add direct links to repositories here — tell me which repos to highlight.)*
+*(If you'd like, I can add direct links to repositories here - tell me which repos to highlight.)*
 
 ---
 
@@ -53,6 +53,6 @@ Welcome to my GitHub profile! I'm a Bachelor of Business Studies (BBS) student a
 ## ⚡ Fun Facts
 
 * I enjoy turning academic topics into bite-sized projects and notes that others can use to learn.
-* I prefer learning by building — expect small, well-documented repositories.
+* I prefer learning by building - expect small, well-documented repositories.
 
 
