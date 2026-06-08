@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Bachelor of Business Studies (BBS) student a
 
 ## 🔭 Currently
 
-* Studying BBS (Second Year) with a focus on cost accounting and financial analysis.
+* Studying BBS (Final Year) with a focus on cost accounting and financial analysis.
 * Learning AI, prompt engineering, and software tools to build practical projects.
 * Improving analytical, critical, and logical thinking through real-life problem solving.
 
